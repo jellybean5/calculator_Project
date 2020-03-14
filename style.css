@@ -1,0 +1,32 @@
+body {
+	border: 3px;
+	border-style: dashed;
+	border-color: cornflowerblue;
+
+}
+
+form {
+	font-size: 39px;
+}
+
+h1 {
+	margin-left: 9px;
+	color: green;
+	font-size: 21px;
+}
+
+
+.form .button {
+  transition-duration: 0.4s;
+}
+
+.form .button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+
+input {
+	margin-left: 9px;
+	background-color: antiquewhite;
+}
